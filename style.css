@@ -1,0 +1,191 @@
+.body1{
+    background-color: pink;
+}
+.boxh1{
+    background-color: pink;
+    width: 530px;
+    height: 300px;
+    margin-left: 36%;
+    margin-top: 100px;
+    position: absolute;
+}
+.boxh2{
+    background-color: pink;
+    width: 530px;
+    height: 300px;
+    margin-top: 300px;
+    margin-left: 200px;
+    position: absolute;
+}
+.boxh3{
+    background-color: pink;
+    width: 470px;
+    height: 300px;
+    margin-top: 3000px;
+    margin-left: 60%;
+    position: absolute;
+}
+.boxh4{
+    background-color: pink;
+    width: 530px;
+    height: 300px;
+    margin-top: 6500px;
+    margin-left: 11%;
+    position: absolute;
+}
+.boxh5{
+    background-color: pink;
+    width: 530px;
+    height: 300px;
+    margin-top: 7200px;
+    margin-left: 70%;
+    position: absolute;
+}
+.h1{
+    color: white;
+    font-family: cursive;
+}
+.box1{
+    background-color: white;
+    background-size: 100% 100%;
+    position: absolute;
+    width: 800px;
+    height: 800px;
+    border-radius: 100px;
+}
+.box2{
+    background-color: white;
+    background-size: 100% 100%;
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    border-radius: 70px;
+}
+.box3{
+    background-color: white;
+    background-size: 100% 100%;
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    border-radius: 40px;
+}
+.xy1{
+    margin-left: 45%;
+    margin-top: 300px;
+    background-image: url(1.png);
+}
+.xy2{
+    margin-left: 10%;
+    margin-top: 1200px;
+    background-image: url(2.png);
+}
+.xy3{
+    margin-left: 40%;
+    margin-top: 1200px;
+    background-image: url(3.png);
+}
+.xy4{
+    margin-left: 70%;
+    margin-top: 1200px;
+    background-image: url(4.png);
+}
+.xy5{
+    margin-left: 15%;
+    margin-top: 1700px;
+    background-image: url(5.png);
+}
+.xy6{
+    margin-left: 50%;
+    margin-top: 1700px;
+    background-image: url(6.png);
+}
+.xy7{
+    margin-left: 10%;
+    margin-top: 2400px;
+    background-image: url(7.png);
+}
+.xy8{
+    margin-left: 40%;
+    margin-top: 2400px;
+    background-image: url(8.png);
+}
+.xy9{
+    margin-left: 70%;
+    margin-top: 2400px;
+    background-image: url(9.png);
+}
+.xy10{
+    margin-left: 10%;
+    margin-top: 2850px;
+    background-image: url(10.png);
+}
+.xy11{
+    margin-left: 10%;
+    margin-top: 3750px;
+    background-image: url(11.png);
+}
+.xy12{
+    margin-left: 40%;
+    margin-top: 3750px;
+    background-image: url(12.png);
+}
+.xy13{
+    margin-left: 70%;
+    margin-top: 3750px;
+    background-image: url(13.png);
+}
+.xy14{
+    margin-left: 15%;
+    margin-top: 4200px;
+    background-image: url(14.png);
+}
+.xy15{
+    margin-left: 50%;
+    margin-top: 4200px;
+    background-image: url(15.png);
+}
+.xy16{
+    margin-left: 10%;
+    margin-top: 4900px;
+    background-image: url(16.png);
+}
+.xy17{
+    margin-left: 40%;
+    margin-top: 4900px;
+    background-image: url(17.png);
+}
+.xy18{
+    margin-left: 70%;
+    margin-top: 4900px;
+    background-image: url(18.png);
+}
+.xy19{
+    margin-left: 15%;
+    margin-top: 5300px;
+    background-image: url(19.png);
+}
+.xy20{
+    margin-left: 50%;
+    margin-top: 5300px;
+    background-image: url(20.png);
+}
+.xy21{
+    margin-left: 10%;
+    margin-top: 5950px;
+    background-image: url(21.png);
+}
+.xy22{
+    margin-left: 40%;
+    margin-top: 5950px;
+    background-image: url(22.png);
+}
+.xy23{
+    margin-left: 70%;
+    margin-top: 5950px;
+    background-image: url(23.png);
+}
+.xy24{
+    margin-left: 50%;
+    margin-top: 6350px;
+    background-image: url(24.png);
+}
